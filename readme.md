@@ -1,3 +1,3 @@
-## A collection of variety of PyTorch Modules
+## A collection of varieties of PyTorch Modules
 
 
